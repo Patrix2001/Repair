@@ -1,3 +1,3 @@
 # Repair
 
-Perbaikan File Main3Activity
+Perbaikan File Main3Activity. Mohon tidak menyalahgunakan kode. Terima kasih.
